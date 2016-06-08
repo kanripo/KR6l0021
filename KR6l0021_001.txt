@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:48.974138
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:28
 #+TITLE: 薩婆多宗五事論
 #+PROPERTY: CBETA_ID T28n1556
 #+PROPERTY: ID KR6l0021
