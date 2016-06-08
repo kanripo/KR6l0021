@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:48.974138
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:28
 #+TITLE: 薩婆多宗五事論
 #+PROPERTY: CBETA_ID T28n1556
 #+PROPERTY: ID KR6l0021
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1556
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0021_T_001-0995c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1556[cf.No.1555]¶
-
- 《薩婆多宗五事論》¶
+No. 1556 [cf. No. 1555]¶
+《薩婆多宗五事論》¶
 ¶
 大番國大德三藏法師沙門法成¶
 於甘州修多寺道場¶
